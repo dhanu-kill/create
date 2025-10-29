@@ -1,2 +1,3 @@
 print("Hello")
-print("Fine")
+print("What?")
+print("IDC")
