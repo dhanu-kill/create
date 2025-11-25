@@ -1,1 +1,1 @@
-dafadda
+print("good")
